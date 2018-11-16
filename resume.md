@@ -20,7 +20,7 @@ Link:
 *이탤릭체*  
 _이탤릭체_  
 
-![하늘]("sky.jpg")
+![하늘]("https://github.com/asd40681402/resume/blob/master/sky.jpg)
 
 [1]: https://google.com "Go google"    
 
