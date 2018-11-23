@@ -10,7 +10,8 @@
 Link:
 [Hallym][1]
 
-[1]: https://www.hallym.ac.kr/ "Hallym"
+[1]: https://www.hallym.ac.kr/ "Hallym"  
+   
   
 > 학과 : 융합소프트웨어(빅데이터)  
    
